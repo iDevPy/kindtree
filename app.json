@@ -1,0 +1,16 @@
+{
+  "name": "kindtree",
+  "description": "Just another Genealogical Tree Builder",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ]
+}
